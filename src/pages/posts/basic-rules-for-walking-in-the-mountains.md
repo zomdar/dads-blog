@@ -1,5 +1,5 @@
 ---
-title: 최형관
+title: 다감사교회
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
