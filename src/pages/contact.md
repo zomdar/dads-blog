@@ -4,7 +4,7 @@ img_path: images/contact.jpg
 menus:
   main:
     title: Contact
-    weight: 4
+    weight: 5
 template: contact
 ---
 온라인 문
