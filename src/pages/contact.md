@@ -7,4 +7,4 @@ menus:
     weight: 4
 template: contact
 ---
-궁금한 것이 있으면 연락을 주시기 바랍니다.
+온라인 문
