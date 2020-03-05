@@ -5,7 +5,7 @@
     "title": "다감사교회",
     "tagline": "All Thankful Church",
     "logo_img": "/images/교회이름로고.png",
-    "bg_img": "",
+    "bg_img": "/images/together.jpg",
     "has_nav": true,
     "has_social": true
   },
