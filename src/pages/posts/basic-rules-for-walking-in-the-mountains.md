@@ -1,7 +1,7 @@
 ---
 title: 다감사교회
 date: '2019-04-09'
-thumb_img_path: ''
+thumb_img_path: /images/together.jpg
 content_img_path: ''
 excerpt: >-
   Hiking is sometimes referred to as such. This specifically refers to difficult
