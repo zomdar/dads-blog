@@ -1,7 +1,7 @@
 ---
 title: 이스라엘 찬양곡
 subtitle: ' Yehova Elohim'
-date: '2019-04-09'
+date: 2020-03-06T05:00:00.000Z
 thumb_img_path: ''
 content_img_path: ''
 excerpt: 'https://www.youtube.com/watch?v=EbIE_Cm6ZE8'
