@@ -1,5 +1,5 @@
 ---
-title: 이스라엘 찬양곡
+title: 여호와 엘로힘
 subtitle: ' Yehova Elohim'
 date: 2020-03-06T05:00:00.000Z
 thumb_img_path: ''
